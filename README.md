@@ -69,7 +69,7 @@ Guided by insights and tutorials from the Power BI community and open datasets.
 
 For any feedback or collaboration opportunities, feel free to connect:
 
-- **LinkedIn:** [https://www.linkedin.com/in/your-linkedin-profile]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/rohit-lakha/))
+- **LinkedIn:** [Profile Link](https://www.linkedin.com/in/rohit-lakha/)
 
 
 

@@ -51,7 +51,8 @@ A comprehensive HR analytics dashboard built using Power BI to visualize and ana
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/hr-analytics-dashboard.git```
+   git clone https://github.com/Rohitlakha/HR-Analytics-Dashboard.git```
+
 2. Open HR_Analytics_Dashboard.pbix in Power BI Desktop.
 
 3. Ensure the dataset is placed under the /data folder.

@@ -40,5 +40,4 @@ This project delivers an **HR Analytics Dashboard** built in Power BI. It enabl
 1. **Clone the repo**  
    ```bash
    git clone https://github.com/RohitLakha/hr-analytics-dashboard.git
-   cd hr-analytics-dashboard
-```
+   cd hr-analytics-dashboard```

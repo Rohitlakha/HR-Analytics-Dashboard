@@ -30,7 +30,7 @@ A comprehensive HR analytics dashboard built using Power BI to visualize and ana
 
 ## 📁 Dataset Details
 
-- **File Name:** `employee_data.csv`
+- **File Name:** `HR_Analytics.csv`
 - **Attributes Include:**
   - Employee ID
   - Age, Gender, Education Field
